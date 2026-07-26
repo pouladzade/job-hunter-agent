@@ -1,4 +1,4 @@
-# AI Job Copilot
+# Job Copilot
 
 [![CI](https://github.com/pouladzade/job-hunter-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/pouladzade/job-hunter-agent/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/pouladzade/job-hunter-agent/branch/main/graph/badge.svg)](https://codecov.io/gh/pouladzade/job-hunter-agent)
